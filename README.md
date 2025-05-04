@@ -52,7 +52,11 @@ It introduces a layered, quantified, and role-driven command interface for inter
 
 - [`U-Type_Structure.md`](./U-Type_Structure.md) — Full quantified structure spec  
 - [`Recognizer_List.md`](./Recognizer_List.md) — Recognizer roles & functions  
-- [`Execution_Examples.md`](./Execution_Examples.md) — Live command-output pairs (**highly recommended**)
+- [`Execution_Examples.md`](./Execution_Examples.md) — Live command-output pairs (**highly recommended**)  
+- [`APPLICATION_GUIDE_EN.md`](./APPLICATION_GUIDE_EN.md) — System mapping and input layer logic  
+- [`COMPATIBILITY_NOTE_EN.md`](./COMPATIBILITY_NOTE_EN.md) — Policy-safe design validation  
+- [`U-Type_USE_CASES_EN.md`](./U-Type_USE_CASES_EN.md) — Scenario-based interaction modeling  
+- [`LICENSE.md`](./LICENSE.md) — Declarative non-open license specification
 
 ---
 
@@ -84,13 +88,10 @@ Declared: 2025-05-04 KST / Status: Stable & Locked
 - 📌 [Spec v1.1.0 – Strategic Draft](https://github.com/kang-minseo-1218/U-Type-001-Structural-Spec/releases/tag/spec-v1.1.0)  
 Declared: 2025-05-04 KST / Status: Draft / Structural Extension
 
-Declared: 2025-05-04 KST / Status: Stable & Locked
-
 ---
 
 **🧭 Declared: 2025-05-04 KST**
 
----
 
-**📌 SHA256 Hash:**  
-e12a8cb0a0fc81f35393e30f90cf367bdaacdb511f57aa5d3ff1171c5d3d410a
+**📌 SHA256 Hash:**
+863c4dba8b152f6471e20267ff04d049c13e133e5a4b8934998a01ffa0b2fbd9
