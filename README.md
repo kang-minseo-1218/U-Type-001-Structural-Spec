@@ -61,7 +61,6 @@ It introduces a layered, quantified, and role-driven command interface for inter
 Designed and declared by **Minseo Kang** (`minseo_kang::KR-GPT-STRUCTURE::20250421`)  
 📧 Contact: daehan_edu@naver.com  
 SHA256 fingerprint included in each structural file.  
-Example SHA256: `8a3197a5e1b45bcd4fe1b912d6c99376b80ecb38fdf432e33c81d702b5d89aa2`  
 Publicly available under declarative architecture license (custom).  
 Not open source for modification — usage by reference only.
 
@@ -90,3 +89,8 @@ Declared: 2025-05-04 KST / Status: Stable & Locked
 ---
 
 **🧭 Declared: 2025-05-04 KST**
+
+---
+
+**📌 SHA256 Hash:**  
+e12a8cb0a0fc81f35393e30f90cf367bdaacdb511f57aa5d3ff1171c5d3d410a
