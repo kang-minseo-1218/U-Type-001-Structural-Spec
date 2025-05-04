@@ -55,3 +55,7 @@ Each recognizer performs a distinct cognitive or operational function in command
 ---
 
 **© 2025 Minseo Kang. All rights reserved.**
+---
+
+**📌 SHA256 Hash:**  
+659151297ded6b73cb6364799d397d984df60867a2e62f5e502234a7e0f6c7d9
