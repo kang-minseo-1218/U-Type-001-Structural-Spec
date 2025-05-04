@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Environment / Secret keys
+*.env
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode workspace settings
+.vscode/
+
+# Metadata backup (optional control)
+*.bak
