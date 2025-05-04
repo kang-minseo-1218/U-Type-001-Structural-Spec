@@ -1,0 +1,13 @@
+{
+    "structure_name": "U-Type-001",
+    "version": "Spec v1.0.0",
+    "declared": "2025-05-04T00:00:00+09:00",
+    "designer": "Minseo Kang",
+    "contact_email": "daehan_edu@naver.com",
+    "sha256_sample": "8a3197a5e1b45bcd4fe1b912d6c99376b80ecb38fdf432e33c81d702b5d89aa2",
+    "fingerprint_id": "minseo_kang::KR-GPT-STRUCTURE::20250421",
+    "repository_url": "https://github.com/kang-minseo-1218/U-Type-001-Structural-Spec",
+    "structure_type": "structural-specification",
+    "license_type": "declarative-non-open-source",
+    "linked_executable_structure": "https://github.com/kang-minseo-1218/U-Type-001-GPT-Structural-Command-Interface"
+}
