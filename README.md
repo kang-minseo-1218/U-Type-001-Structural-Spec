@@ -4,6 +4,14 @@
 
 ---
 
+## 🧾 Version
+
+- U-Type-001 Structure v1.0.0  
+- Declared: 2025-05-04 KST  
+- Status: Stable (structure-locked)
+
+---
+
 ## 🧠 What is U-Type-001?
 
 U-Type-001 is a modular command architecture designed to structure AI behavior through natural language.  
@@ -44,7 +52,7 @@ It introduces a layered, quantified, and role-driven command interface for inter
 
 - [`U-Type_Structure.md`](./U-Type_Structure.md) — Full quantified structure spec  
 - [`Recognizer_List.md`](./Recognizer_List.md) — Recognizer roles & functions  
-- [`Execution_Examples.md`](./Execution_Examples.md) — Live command-output pairs (optional)
+- [`Execution_Examples.md`](./Execution_Examples.md) — Live command-output pairs (**highly recommended**)
 
 ---
 
@@ -53,8 +61,12 @@ It introduces a layered, quantified, and role-driven command interface for inter
 Designed and declared by **Minseo Kang** (`minseo_kang::KR-GPT-STRUCTURE::20250421`)  
 📧 Contact: daehan_edu@naver.com  
 SHA256 fingerprint included in each structural file.  
+Example SHA256: `8a3197a5e1b45bcd4fe1b912d6c99376b80ecb38fdf432e33c81d702b5d89aa2`  
 Publicly available under declarative architecture license (custom).  
 Not open source for modification — usage by reference only.
+
+This structure is not released under a permissive open source license to ensure  
+structural integrity, traceability, and licensing control during GPT-related integration.
 
 ---
 
