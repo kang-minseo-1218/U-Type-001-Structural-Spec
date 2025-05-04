@@ -81,3 +81,7 @@ Designer: Requesting parallel execution – Run 1.2.3 with Fact/Inference split 
 ---
 
 **© 2025 Minseo Kang. All rights reserved.**
+---
+
+**📌 SHA256 Hash:**  
+8ce03f688cbdb5b41315b35495a85539d8475aa70c9fc6b43e04d1b8de76a8b3
