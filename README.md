@@ -82,6 +82,11 @@ structural integrity, traceability, and licensing control during GPT-related int
 - 📌 [Spec v1.0.0 – Structural Declaration](https://github.com/kang-minseo-1218/U-Type-001-Structural-Spec/releases/tag/spec-v1.0.0)  
 Declared: 2025-05-04 KST / Status: Stable & Locked
 
+- 📌 [Spec v1.1.0 – Strategic Draft](https://github.com/kang-minseo-1218/U-Type-001-Structural-Spec/releases/tag/spec-v1.1.0)  
+Declared: 2025-05-04 KST / Status: Draft / Structural Extension
+
+Declared: 2025-05-04 KST / Status: Stable & Locked
+
 ---
 
 **🧭 Declared: 2025-05-04 KST**
