@@ -83,3 +83,8 @@
 This document outlines the technical strategy for U-Type-001 version 1.1.0.  
 It will be included in the `spec-v1.1.0` release as the official planning directive,  
 including fingerprint identity and integrity mechanisms.
+
+---
+
+**📌 SHA256 Hash:**  
+fce0db7cb3608eab87c40e0fbd7096fd569fb922fb51736e73c3ed9d5630a891
