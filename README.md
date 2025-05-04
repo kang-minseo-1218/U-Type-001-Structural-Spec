@@ -1,12 +1,12 @@
-# U-Type-001 Structure
+# U-Type-001 Structural Specification (Spec v1.0.0)
 
-**Structural specification & quantitative definition of U-Type-001 natural language interface for AI(GPT).**
+**Specification & quantification for U-Type-001 natural language interface for AI(GPT).**
 
 ---
 
 ## 🧾 Version
 
-- U-Type-001 Structure v1.0.0  
+- Spec v1.0.0  
 - Declared: 2025-05-04 KST  
 - Status: Stable (structure-locked)
 
