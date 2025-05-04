@@ -1,53 +1,59 @@
-# U-Type-001 Application Guide (English Version)
+# U-Type-001 Application Guide (Revised & Policy-Safe Version)
 
-## 📌 Overview
-U-Type-001 is an interface designed to simulate structured command-based interactions with GPT-series language models.
-This architecture transforms natural language into structured commands, enabling user-defined simulation environments that control response formats, role-based execution flows, and parallel command operations.
-It is structurally compatible with various GPT model subsystems.
+## 📀 Overview
 
----
-
-## 🧩 Applicable Integration Layers (Simulation-Level Reference)
-
-### 1. 🔹 Instruction Routing Layer
-- The parallel command syntax (`1.2.3.`) and mode assignments (e.g., `Designer`, `Recorder`) can be integrated as **user-defined flow simulations** within instruction routing logic.
-- Supports prioritization of instructions, concurrent parsing, and role-based execution splitting.
-
-### 2. 🔹 Prompt Parsing Layer
-- U-Type commands are not free-form natural language but **structured command inputs**, which allows rule-based prompt parsing simulations.
-- The separation of Fact / Inference / Hypothesis enhances interpretive precision.
-
-### 3. 🔹 Custom Behavior Policy Layer
-- Components such as emotional suppression threshold (0–30%), error code output, and structured response formatting support **custom response policy simulation**.
-- Applicable to experimental or demonstration environments with response policy flexibility.
+U-Type-001 is an interface designed to simulate **structured command-driven interaction patterns** alongside GPT-series language models.  
+This architecture transforms natural language into structured commands to support **user-defined simulation environments** for managing response styles, symbolic roles, and concurrent command operations.  
+Its structure is conceptually alignable with typical layers observed in GPT input processing pipelines.
 
 ---
 
-## 🧪 Simulation-Based Use Case Examples
+## 🧩 Applicable Simulation Layers (Conceptual Mapping Reference)
 
-| Scenario | Standard Input Method | U-Type (Simulation-based) |
-|---------|-----------------------|----------------------------|
-| Execute 3 commands | Sequential only | `Parallel Mode` enables concurrent execution with separated responses |
-| Emotional suppression | Not supported | Response emotions limited via `Emotional Suppression Mode (0–30%)` |
-| Error handling | Informal messages | Structured error output in form `[E-2401]` etc. |
-| Role assignment | Static GPT role | Dynamic routing using `Designer`, `Recorder`, etc. user-defined modes |
+### 1. 🔹 Instruction Flow Simulation Layer
+
+- The parallel command syntax (`1.2.3.`) and symbolic mode tags (e.g., `Designer`, `Recorder`) can be interpreted as **simulated user flows** resembling instruction routing patterns.
+- Supports experimentation with user-controlled command priority, branching, and modular execution styles.
+
+### 2. 🔹 Prompt Interpretation Layer
+
+- U-Type commands follow a **structured command format** rather than free-form language, allowing **rule-based parsing simulations**.
+- The explicit separation of Fact / Inference / Hypothesis facilitates structured interpretive modeling.
+
+### 3. 🔹 Behavior Response Policy Simulation
+
+- Emotion suppression threshold (0–30%), structured error code output, and format control can be simulated as **customized behavioral policy scenarios**.
+- Suitable for controlled environments such as structured response testing or UI demonstration simulations.
+
+---
+
+## 🧪 Example: Simulation-Based Use Cases
+
+| Scenario              | Standard Prompt Use       | U-Type Structure (Simulated)                                            |
+|----------------------|---------------------------|-------------------------------------------------------------------------|
+| Execute 3 commands    | Sequential only           | `Parallel Mode`: Concurrent execution with split responses              |
+| Emotional suppression | Not natively supported    | Emotion regulation via `Emotional Suppression Mode (0–30%)`             |
+| Error handling        | Informal error reporting  | Structured format output like `[E-2401]`                                |
+| Role assignment       | Static role behavior only | Symbolic routing using `Designer`, `Recorder` (user-defined, simulated) |
 
 ---
 
 ## 🛡️ Safety & Policy Considerations
 
-- U-Type operates as a **user-driven structured command simulation** and does not override or bypass model-internal rules or policies.
-- Features like emotion control, error reporting, and role assignment are aimed at **enhancing system clarity and interpretability**.
-- All actions remain strictly within the bounds of GPT's input processing and user-defined execution scope.
+- U-Type-001 is a **user-side structural simulation** and does **not override, intercept, or bypass** any GPT-internal logic or model constraints.
+- Features such as role-based routing, emotion modulation, and structural output formatting are intended to support **clarity, modularity, and simulation testing**.
+- All behaviors remain within GPT’s standard input/output constraints and serve **only as guided interaction patterns** defined by the user.
 
 ---
 
-## 🧾 License Information
+## 📜 License & Metadata
 
 - **Structural Designer**: Minseo Kang  
-  *(Fingerprint-ID: minseo_kang::KR-GPT-STRUCTURE::20250421)*  
-- **Structure Type**: Declarative Architecture (Non-open-source)  
-- **GitHub Repository**:  
+  *(Fingerprint-ID: minseo_kang::KR-GPT-STRUCTURE::20250421)*
+
+- **Architecture Type**: Declarative Structure (Non-open-source simulation-based interface)
+
+- **Repository**:  
   [https://github.com/kang-minseo-1218/U-Type-001-Structural-Spec](https://github.com/kang-minseo-1218/U-Type-001-Structural-Spec)
 
-- **Contact Email**: daehan_edu@naver.com
+- **Contact**: [daehan_edu@naver.com](mailto:daehan_edu@naver.com)
